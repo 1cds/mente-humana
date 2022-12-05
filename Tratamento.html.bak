@@ -1,0 +1,67 @@
+<HTML>
+  <head>
+  <style>
+  #example1 {
+  border: 2px solid red;
+  padding:10px;
+  border-bottom-right-ardius: 25px
+  }
+  #example2 {
+  border: 2px solid red;
+  padding: 10px;
+  border-bottom-right-radius: 50px 20px;
+  }
+  {
+  margin:0;
+  padding:0;
+  box-sizing: border-box
+  }
+  .center{
+   display: flex;
+   flex-wrap: wrap;
+   max-width: 1100px;
+   margin:0 auto;
+   padding:0 2%
+   }
+
+   
+    </style>
+  </head>
+<BODY> 
+<BR></BR>
+<header>
+
+
+<body bgcolor=""
+		
+		
+	
+		<p><FONT face= "Maiandra GD" size="6" color="FFFFFF">
+		<H1><center><i>Tratamento</p></i></H1>
+		<BODY bgcolor="ECF6CE">
+ 
+		
+		 <FONT face= "verdana" size="7" color="FFFFFF"> <p>E quanto ao tratamento?</p>
+		 <center><img src="imagem\background14.png">
+		 
+		 <div class= "center">
+		 <center><FONT face= "verdana" size="4" color="FFFFFF"> <p>Diferente do que muitos acreditam, não existe um remédio específico ou um tratamento milagroso para se 'curar' da noite para o dia, 
+		 é necessário tempo e cuidado para cuidar das questões mentais e emocionais.</p></center>
+		  <FONT face= "verdana" size="4" color="FFFFFF"> <p>Após ser diagnosticado, o processo de tratamento pode variar de acordo com o transtorno e o grau de cada pessoa. 
+		  Em sua maioria, os métodos para tratar os transtornos de saúde mental pode ser classificado como:</p>
+		   
+		   <FONT face= "verdana" size="4" color="FFFFFF">
+		   <div id="example1">
+		   <p>
+		   <i><center>●	Somáticos - Os tratamentos somáticos incluem medicamentos, eletroconvulsoterapia e outros tipos de terapia que estimulam o cérebro, por exemplo, estimulação magnética transcraniana e estimulação do nervo vago.</p></div>
+		   <FONT face= "verdana" size="4" color="FFFFFF">
+            <div id="example2">
+		   <p> 
+		   <i><center>●	Psicoterapêuticos - Os tratamentos psicoterapêuticos incluem psicoterapia (individual, de grupo ou familiar e conjugal), técnicas de terapia comportamental (por exemplo, métodos de relaxamento ou terapia de exposição) e hipnoterapia.</p></div>
+		  
+		   
+		 <FONT face= "verdana" size="4" color="FFFFFF"> <p>Grande parte dos estudos sugere que, para transtornos de saúde mental importantes, uma abordagem terapêutica que contemple tanto medicamentos como psicoterapia é mais eficaz do que qualquer um dos métodos de tratamento utilizados isoladamente.</p>
+         <FONT face= "verdana" size="4" color="FFFFFF"> <p>Exemplos de profissionais que são capacitados para ajudar no processo de tratamento são: psiquiatras,  psicólogos clínicos, enfermeiros com especialização psiquiátrica e assistentes sociais. 
+Entretanto, psiquiatras (e enfermeiros práticos de psiquiatria em alguns estados) são os únicos profissionais de cuidados com a saúde mental com permissão para receitar medicamentos.</p>
+
+ <b><center><FONT style= font face="Arial Narrow" color="#17202A"><a href="index.html">Página principal </a></FONT></center></b>

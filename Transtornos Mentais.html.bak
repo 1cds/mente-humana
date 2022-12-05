@@ -1,0 +1,80 @@
+<HTML>
+<BODY> 
+
+<body bgcolor="#F4A460">
+  
+       <style>
+				     body{
+                       background-image: url(imagem/background.png);				
+               			background-repeat:no-repeat;
+                        background-size:100%;}
+						
+						{
+                          margin:0;
+                          padding:0;
+                     box-sizing: border-box
+                         }
+                       .center{
+                        display: flex;
+                        flex-wrap: wrap;
+                        max-width: 1100px;
+                        margin:0 auto;
+                        padding:0 2%
+                           }
+					
+							</style>
+				</HEAD>  
+		
+     <BR></BR>
+		
+		<p><FONT face= "Times New Roman" size="8" color="FFFFFF"> 
+		<b><center><i>Transtornos Mentais</p></i></b>
+		<BODY bgcolor="ECF6CE">
+	   
+	   <div class= "center">
+		 <FONT face= "verdana" size="4" color="FFFFFF"> <p>Os termos transtorno, distúrbio e doença combinam-se aos termos mental, psíquico e psiquiátrico para descrever qualquer anormalidade, sofrimento ou comprometimento de ordem psicológica e/ou mental. 
+		 Os transtornos mentais são um campo de investigação interdisciplinar que envolvem áreas como a psicologia, a psiquiatria e a neurologia.</p></i>
+		        
+				<center><img src="imagem\background21.1.png">
+		 
+		<FONT face= "Cooper Black" size="6" color="FFFFFF"> <p>O que é um Transtorno Mental?</p>
+		
+  <FONT face= "verdana" size="4" color="FFFFFF"> <p>Os transtornos mentais são disfunções da nossa atividade cerebral que podem afetar o nosso humor, comportamento, raciocínio e até mesmo a forma de aprendizado e maneira de nos comunicarmos 
+Há diversos transtornos mentais que são classificados em tipos. Por não ter sintomas físicos claros, somente nas últimas décadas que eles passaram a serem estudados mais profundamente.
+De acordo com dados da Opas (Organização Pan-Americana da Saúde), cerca de 30% da população das Américas teve ou terá algum transtorno mental. </p>
+
+<FONT face= "Cooper Black" size="6" color="FFFFFF"> <p>Como identificar um Transtorno Mental </p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>Os transtornos mentais geralmente são caracterizados por uma combinação de emoções, comportamentos, percepções e pensamentos que podem afetar a vida de uma pessoa.</p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>Para identificar um Transtorno Mental é importante ficar atento ao comportamento do indivíduo, que pode apresentar sinais como:</p>
+<br>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Mudanças de humor repentinas;</p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Mudanças no comportamento;</p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Dificuldade em se concentrar; </p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Dificuldade em raciocinar;</p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Problemas em expressar ideias; </p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Dificuldade em conviver com outras pessoas;</p> 
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Entre outros.</p>
+</br>
+
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>O ideal é que, ao apresentar esses sinais, é importante que o indivíduo busque ajuda profissional para um diagnóstico preciso, de preferência um Médico Psiquiatra e um Psicólogo. 
+Eles juntos, de acordo com uma minuciosa avaliação, poderão dar o diagnóstico e prognóstico</p>
+<FONT face= "Cooper Black" size="6" color="FFFFFF"> <p>O que pode causar um Transtorno Mental?</p>
+<center><img src="imagem\background23.png">
+<br></br>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>Não é possível definir uma só causa para esse tipo de distúrbio. Há várias situações que podem acabar desencadeando algum distúrbio mental, como:</p>
+<br>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Fatores Psicossociais: situações de estresse; vida familiar; ambiente escolar e outros.</p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Genéticos: ligados aos transtornos mentais relacionados ao histórico familiar do indivíduo.</p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Ambientais: relacionados a problemas enfrentados na comunidade (violência urbana) e tipos de possíveis abusos (físico, psicológico e sexual).</p>
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>•	Biológicos: situações de anormalidades do sistema nervoso central.</p>
+</br>
+
+<FONT face= "verdana" size="4" color="FFFFFF"> <p>O fato é que, independentemente das causas que desencadearam algum tipo de distúrbio, é importante ressaltar o quanto esses problemas podem afetar a qualidade de vida e bem-estar das pessoas.
+ Daí a importância de um diagnóstico precoce e tratamento adequado.</p>
+         
+		 
+ <b><center><FONT style= font face="Arial Narrow" color="#17202A"><a href="index.html">Página principal </a></FONT></center></b>
+
+
+
+
